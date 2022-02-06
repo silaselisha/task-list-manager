@@ -1,0 +1,12 @@
+{
+  "name": "task-list-manager",
+  "version": "1.0.0",
+  "description": "task list manager",
+  "main": "client.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Elisha.K.Silas <elishasilas87@gmail.com>",
+  "license": "MIT"
+}
